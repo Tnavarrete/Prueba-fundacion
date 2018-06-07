@@ -23,8 +23,10 @@ margin-top: 101px;
   color: #fff;
   padding-left: 50px;
 }
+
 .fixed-top {
   background-color: #008BC8!important;
+  border-bottom: solid 4px #fff!important;
 }
 .btn-primary {
   color: #fff;
