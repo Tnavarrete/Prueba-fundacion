@@ -168,7 +168,12 @@ input[type=submit]:hover {
   padding-right: 50px;   
 }
 }
+@media only screen and (max-width: 767px) {
+.formulario-contacto {
+    height: 400px;
+}
 
+}
 @media only screen and (min-width: 414px) {
 .carousel-item {
   margin-top: 99px;
