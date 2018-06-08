@@ -182,7 +182,9 @@ input[type=submit]:hover {
 @media only screen and (max-width: 414px) {
 .formulario-contacto {
   height: 433px;}
-
+.objetivo-img{
+  margin-top: 101px;
+}
 .carousel-item {
   margin-top: 99px;
 }
